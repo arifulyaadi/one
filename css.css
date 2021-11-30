@@ -1,0 +1,41 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	
+
+}
+
+.welcome {
+	text-align: center;
+	background: black;
+	color: orange;
+	
+	
+}
+.img{
+	background: linear-gradient(#0f9d589c,#93340a91), url(img/imgt.jpg)  ;
+	background-size: cover;
+	background-repeat: no-repeat ;
+	height: 1000px;
+}
+.all{
+	width: 200px;
+	text-transform: capitalize;
+	text-decoration: none;
+
+}
+
+.hi{
+	font-size: 60px 
+
+}
+
+.just{font-size: 20px
+
+}
+
+.thank{
+	font-style: italic; 
+	font-size: 40px;
+	color: #ddd;
+}
